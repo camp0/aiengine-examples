@@ -1,6 +1,3 @@
-AIEngine python examples 
-========================
+Saw your response on my question on stack exchange. would love to get in touch. 
 
-This repository contains examples of use of AIEngine in python.
-
-Feel free to add more examples to this repository.
+My email is vincent@whales.media
